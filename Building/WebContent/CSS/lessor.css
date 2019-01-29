@@ -1,0 +1,121 @@
+@charset "UTF-8";
+
+<link href="https://fonts.googleapis.com/css?family=Yeon+Sung&amp;subset=korean" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,500,700,900&amp;subset=korean" rel="stylesheet">
+
+#bye {
+	
+	width: 800px;
+  margin: 0;
+  margin-right: auto;
+  text-align: right;
+}
+
+#wrap{
+  width: 971px;
+  margin: 0;
+  margin-right: auto;
+  margin-left: auto;
+  
+  
+}
+
+#siz {
+	font-size: 15px;
+	font-family: 'Noto Sans KR', sans-serif;
+	
+}
+
+#pp {
+	color: black;
+  font-family: 'Yeon Sung', cursive;
+  border-bottom: 2px solid pink;
+  display: inline;
+}
+
+#da {
+	color: black;
+  font-family: 'Yeon Sung', cursive;
+  border-bottom: 2px solid DarkGoldenRod;
+  display: inline;
+}
+
+#se {
+	color: black;
+  font-family: 'Yeon Sung', cursive;
+  border-bottom: 2px solid seagreen;
+  display: inline;
+	
+}
+
+.fon {
+	font-size: 15px;
+	font-family: 'Noto Sans KR', sans-serif;
+	text-align: center;
+	
+}
+
+.pink {
+	background: pink;
+	line-height: 25px;
+}
+
+.darkg {
+	background:DarkGoldenRod;
+	font-size: 17px;
+	font-family: 'Noto Sans KR', sans-serif;
+	text-align: center;
+	line-height: 25px;
+	
+}
+
+.seag {
+	background: seagreen;
+	font-size: 17px;
+}
+  
+
+.record {
+	font-size: 17px;
+	font-family: 'Noto Sans KR', sans-serif;
+	text-align: center;
+}
+
+form {
+	margin: 0 auto;
+    width: 500px;
+	
+}
+h1{
+  color: black;
+  font-family: 'Yeon Sung', cursive;
+  border-bottom: 2px solid powderblue;
+  display: inline;
+
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  font-family: 'Yeon Sung', cursive;
+  line-height: 24px;
+}
+table td, th {
+  border: black solid 1px;
+  padding: 5px;
+}
+th {
+  background: powderblue;
+}
+img {
+  width: 220px;
+  height: 300px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:HOVER {
+  text-decoration: underline;
+  color: green;
+}
