@@ -120,7 +120,7 @@ h2 {
 	</div>
 	<p style="text-align: center;">
 		<img
-			src="C:\eclipse\work\Building\WebContent\WEB-INF\image\Join-us.png"
+			src="C:\eclipse\work\LandlordProject\WebContent\WEB-INF\image\Join-us.png"
 			alt="회원가입이미지" title="join us" width=360px>
 	</p>
 </body>

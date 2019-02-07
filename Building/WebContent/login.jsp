@@ -80,7 +80,7 @@ h2 {
 	</div>
 	<p style="text-align: center;">
 		<img
-			src="C:\eclipse\work\Building\WebContent\WEB-INF\image\건물.jpg"
+			src="C:\eclipse\work\LandlordProject\WebContent\WEB-INF\image\건물.jpg"
 			alt="건물이미지" title="건물이미지" width=500px>
 	</p>
 

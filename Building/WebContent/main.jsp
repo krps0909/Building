@@ -69,7 +69,7 @@ h2 {
 		<form action="/logout.do">
 			<p style="text-align: center;">
 
-				<img src="C:\eclipse\work\Building\WebContent\WEB-INF\image\hello.png" alt="hello"
+				<img src="C:\eclipse\work\LandlordProject\WebContent\WEB-INF\image\hello.png" alt="hello"
 					title="hello" width=300px>
 			</p>
 			<br>
